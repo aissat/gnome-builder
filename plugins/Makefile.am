@@ -17,6 +17,7 @@ SUBDIRS = \
 	jedi \
 	project-tree \
 	python-gi-imports-completion \
+	media-controls \
 	mingw \
 	python-pack \
 	support \
